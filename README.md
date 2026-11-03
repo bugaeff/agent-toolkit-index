@@ -292,4 +292,4 @@ Curated and maintained by [@bugaeff](https://github.com/bugaeff).
 
 ## License
 
-Index content: to be decided. Linked resources retain their original licenses.
+The files in this repository (the index and the components published in it) are released under the [MIT License](LICENSE). Linked resources retain their original licenses.
